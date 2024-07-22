@@ -1,1 +1,1 @@
-num_sides
+max_result
